@@ -1,5 +1,5 @@
 # papa_maman_mots
-Ce dépot contient des fichiers contenants des noms masculins et féminins pour remplacer les mots « papa » et « maman » du slogan de La Manif Pour Tous postés sur le compte twitter [@SlogansLMPT](twitter.com/SlogansLMPT).
+Ce dépot contient des fichiers contenants des noms masculins et féminins pour remplacer les mots « papa » et « maman » du slogan de La Manif Pour Tous postés sur le compte twitter [@SlogansLMPT](http://twitter.com/SlogansLMPT).
 
 ## Comment suggérer des mots ?
 Il suffit de forker ce dépot, d'ajouter les mots a la fin de chaque fichier, tous séparés d'un retour a la ligne puis d'effectuer une pull request.
