@@ -6,5 +6,6 @@ Il suffit de forker ce dépot, d'ajouter les mots a la fin de chaque fichier, to
 
 ## Quelles sont les règles pour suggérer des mots ?
 * Uniquement des noms masculins dans le fichier *noms_masculins.txt* et féminins dans le fichier *noms_féminins.txt*
+* Sauf s'il s'agit d'un nom propre, ne mettez pas de majuscules sur vos mots
 * Évitez les vulgarités le plus possible. La modération est a l'appréciation de Siphonay, le propriétaire de ce dépot
 * Soyez **surs** de ne pas faire de doublons
